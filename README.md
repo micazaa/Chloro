@@ -13,12 +13,19 @@ The system focuses on four growing conditions:
 
 Chloro was developed as an undergraduate thesis project for the Bachelor of Science in Computer Science with Specialization in Software Engineering program at FEU Institute of Technology.
 
+## Research Poster
+
+<p align="center">
+  <img src="docs/images/chloro-poster.png" width="65%" alt="Chloro thesis research poster">
+</p>
+
 ## Application Preview
 
 <p align="center">
-  <img src="flutter_03.png" width="30%" alt="Chloro garden dashboard">
-  <img src="flutter_01.png" width="30%" alt="Chloro batch readings and harvest forecast">
-  <img src="flutter_02.png" width="30%" alt="Chloro cultivation calendar">
+  <img src="docs/images/dashboard.png" width="23%" alt="Chloro garden dashboard">
+  <img src="docs/images/batch-details.png" width="23%" alt="Chloro batch details and harvest forecast">
+  <img src="docs/images/readings-overview.png" width="23%" alt="Chloro historical readings overview">
+  <img src="docs/images/suggestions.png" width="23%" alt="Chloro insights and recommended actions">
 </p>
 
 ## Key Features
